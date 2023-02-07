@@ -1,4 +1,4 @@
-# DAMG6210
-Group project of class DAMG6210
+# DAMG6210 Data Management and Database Design
 
-We made a skincare products database to maintain and integrate sales record, customer information and product review and therefore help retailers to evaluate customers’ demand, product inventory and category to guide marketing initiatives.
+Final group project for Class: Data Management and Database Design
+We Designed a database for retailers to maintain customer information, transaction, and product information data; used Lucidchart to create the normalized Entity- Relation Diagram(ERD) with 14 entities; implemented the database with stored procedures, table-level constraints, triggers, views and encryption using MySQL; completed data visualization with Tableau to report the customer portrait and the popularity of the products.
